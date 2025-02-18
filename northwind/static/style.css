@@ -53,6 +53,7 @@ html {
     display: block;
     padding: 0.5rem;
   }
+
   
   .content {
     padding: 0 1rem 1rem;
@@ -115,9 +116,6 @@ html {
     margin-bottom: 0.5em;
   }
   
-  .content input, .content textarea {
-    margin-bottom: 1em;
-  }
   
   .content textarea {
     min-height: 12em;
